@@ -3,7 +3,7 @@ title: "AI in Finance"
 description: "An SEO-friendly guide to AI in Finance for retail traders."
 slug: "ai-in-finance"
 date: "2025-04-25"
-image: "https://cdn.jsdelivr.net/gh/youruser/yourrepo@main/images/ai.jpg"
+image: "https://cdn.jsdelivr.net/gh/reprojekted/mundana-theme-jekyll-master@main/assets/images/ai-in-finance.jpeg"
 tags: ["AI trading bots"]
 ---
 
