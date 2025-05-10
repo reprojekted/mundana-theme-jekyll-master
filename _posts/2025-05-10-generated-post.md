@@ -3,7 +3,7 @@ layout: post
 title: "After iPhone 17 – What to Expect in 2026 and Beyond"
 author: "alex"
 categories: [ "Jekyll", "tutorial" ]
-image: ""https://cdn.jsdelivr.net/gh/reprojekted/mundana-theme-jekyll-master@main/assets/images/ai-in-finance.jpeg""
+image: "https://cdn.jsdelivr.net/gh/reprojekted/mundana-theme-jekyll-master@main/assets/images/ai-in-finance.jpeg"
 tags: [ "rumored -i-phone‌-roadmap" ]
 ---
 
