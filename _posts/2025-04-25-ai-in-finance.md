@@ -3,7 +3,7 @@ layout: post
 title: "AI in Finance"
 author: "alex"
 categories: [ "Jekyll", "tutorial" ]
-image: ""https://cdn.jsdelivr.net/gh/reprojekted/mundana-theme-jekyll-master@main/assets/images/default-slug.jpeg""
+image: "image17.jpg"
 tags: [ "ai-in-finance" ]
 ---
 
