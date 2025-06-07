@@ -3,7 +3,7 @@ layout: post
 title: "Machtkampf mit Trump: Elon Musk hat sich wohl verzockt"
 author: "alex"
 categories: [ "MUSK" ]
-image: "assets/images/image19.jpeg"
+image: "assets/images/image20.jpeg"
 tags: [ "MUSK-TAGS" ]
 ---
 
