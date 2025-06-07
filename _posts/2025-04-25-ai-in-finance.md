@@ -3,7 +3,7 @@ layout: post
 title: "AI in Finance"
 author: "alex"
 categories: [ "Jekyll", "tutorial" ]
-image: "image17.jpg"
+image: "image17.png"
 tags: [ "ai-in-finance" ]
 ---
 
