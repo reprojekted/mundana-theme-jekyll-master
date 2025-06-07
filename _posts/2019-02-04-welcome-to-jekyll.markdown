@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sicherheit im Straßenverkehr: Elon Musk bremst Fortschritt mit fehlendem vorderen Bremslicht"
-categories: [ Jekyll ]
+categories: [SICHERHEIT IM STRASSENVERKEHR]
 image: assets/images/demo1.jpg
 ---
 ## Studie zeigt: Ein einfaches grünes Licht könnte Unfälle verhindern – doch Tesla setzt lieber auf Marsreisen.
