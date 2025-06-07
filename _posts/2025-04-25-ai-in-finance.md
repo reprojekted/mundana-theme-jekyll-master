@@ -4,7 +4,7 @@ title: "Leapmotor T03: Das Elektroauto, das Elon Musk in den Wahnsinn treibt"
 author: "alex"
 categories: [ "Jekyll", "tutorial" ]
 image: "assets/images/image19.jpg"
-tags: [ "sticky" ]
+tags: [sticky]
 ---
 
 ## Stellantis bringt mit dem Leapmotor T03 ein günstiges E-Auto nach Europa – und Elon Musk verliert die Kontrolle über seine Gigafactory.
